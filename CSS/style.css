@@ -1,11 +1,5 @@
-div {
+.wrapper {
   width: 30%;
-}
-
-.ul {
-  width: 30%;
-  border: 10px solid black;
-  border-color: lightgreen;
 }
 
 body {
