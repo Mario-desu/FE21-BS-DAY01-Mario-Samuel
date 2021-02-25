@@ -1,1 +1,8 @@
-/* No CSS *//*# sourceMappingURL=stylesheet2.css.map */
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container .color-scss {
+  background-color: #b00d30;
+}
+/*# sourceMappingURL=stylesheet2.css.map */
